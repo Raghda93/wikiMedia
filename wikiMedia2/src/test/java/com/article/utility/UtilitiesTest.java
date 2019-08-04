@@ -1,4 +1,4 @@
-package main.java.com.article.utility;
+package test.java.com.article.utility;
 
 import static org.junit.jupiter.api.Assertions.*;
 
@@ -6,6 +6,8 @@ import java.util.ArrayList;
 import java.util.HashMap;
 
 import org.junit.jupiter.api.Test;
+
+import main.java.com.article.utility.Utilities;
 
 class UtilitiesTest {
 
